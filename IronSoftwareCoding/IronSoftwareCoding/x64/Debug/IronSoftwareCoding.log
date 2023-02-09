@@ -1,0 +1,3 @@
+﻿  IronSoftwareCoding.cpp
+D:\RMUTT\C++\IronSoftwareCoding\IronSoftwareCoding\IronSoftwareCoding.cpp(81,33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  IronSoftwareCoding.vcxproj -> D:\RMUTT\C++\IronSoftwareCoding\x64\Debug\IronSoftwareCoding.exe
